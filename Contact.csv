@@ -1,0 +1,50 @@
+Guid,AccountId,AssistantName,AssistantPhone,Birthdate,CleanStatus,Department,Description,Email,EmailBouncedReason,Fax,FirstName,HomePhone,Jigsaw,Languages__c,LastName,LeadSource,Level__c,MailingCity,MailingCountry,MailingGeocodeAccuracy,MailingLatitude,MailingLongitude,MailingPostalCode,MailingState,MailingStreet,MobilePhone,OtherCity,OtherCountry,OtherGeocodeAccuracy,OtherLatitude,OtherLongitude,OtherPhone,OtherPostalCode,OtherState,OtherStreet,Phone,Salutation,Title
+01dd8a5e-2de9-43d9-a225-e6449ba1e131,736b886c-ae8d-4daf-88d5-7d15b064d90c,"#N/A","#N/A",1953-11-09,Pending,Finance,"#N/A",barr_tim@grandhotels.com,"#N/A",(312) 596-1500,Tim,"#N/A","#N/A",English,Barr,External Referral,Secondary,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","2335 N. Michigan Avenue, Suite 1500
+Chicago, IL 60601, USA",(312) 596-1230,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",(312) 596-1000,Mr.,"SVP, Administration and Finance"
+189b27c9-68ba-4e73-bc3c-d7518a9a47f9,ce3d93a2-baf7-47f5-9825-dbb6f0158669,Ron Sage,(503) 421-6782,1937-02-20,Pending,Operations,"#N/A",b.levy@expressl&t.net,"#N/A",(503) 421-7801,Babara,"#N/A","#N/A",English,Levy,Word of mouth,Primary,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","620 SW 5th Avenue Suite 400
+Portland, Oregon 97204
+United States",(503) 421-5451,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",(503) 421-7800,Ms.,"SVP, Operations"
+1a42cae2-3946-4cb9-8f9d-dec710d4c884,0efa91bf-962c-4c25-82da-79a1e7f2df8e,"#N/A","#N/A","#N/A",Pending,"#N/A","#N/A","#N/A","#N/A","#N/A",Siddartha,"#N/A","#N/A","#N/A",Nedaerk,"#N/A","#N/A",San Francisco,US,"#N/A","#N/A","#N/A",94087,CA,The Landmark @ One Market,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Ms.,"#N/A"
+3c318b08-8bc5-41bc-a26f-41e74b775712,38d16764-9f76-4920-8c9f-6ddc817ab71e,Chris Nobel,(212) 842-5428,1933-10-13,Pending,Finance,"#N/A",agreen@uog.com,"#N/A",(212) 842-5501,Avi,"#N/A","#N/A",English,Green,Public Relations,Primary,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","1302 Avenue of the Americas 
+New York, NY 10019
+USA",(212) 842-2383,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",(212) 842-5500,Mr.,CFO
+441fd721-e613-4718-a350-97dfbada68cf,ecaca7a6-eaee-41ba-be85-45d866b91c65,"#N/A","#N/A",1946-12-12,Pending,Finance,"#N/A",sean@edge.com,"#N/A",(512) 757-9000,Sean,"#N/A","#N/A",English,Forbes,Trade Show,Secondary,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","312 Constitution Place
+Austin, TX 78767
+USA",(512) 757-4561,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",(512) 757-6000,Mr.,CFO
+461f81ab-f31d-41e5-b1c7-d6a01f45545d,736b886c-ae8d-4daf-88d5-7d15b064d90c,"#N/A","#N/A",1956-01-21,Pending,Facilities,"#N/A",bond_john@grandhotels.com,"#N/A",(312) 596-1500,John,"#N/A","#N/A",English,Bond,External Referral,Primary,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","2334 N. Michigan Avenue, Suite 1500
+Chicago, IL 60601, USA",(312) 596-1563,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",(312) 596-1000,Mr.,"VP, Facilities"
+4a032fd3-f012-4e3c-a7ae-db795a9f2ff2,ecaca7a6-eaee-41ba-be85-45d866b91c65,"#N/A","#N/A",1968-03-15,Pending,Procurement,"#N/A",rose@edge.com,"#N/A",(512) 757-9000,Rose,"#N/A","#N/A",English,Gonzalez,Trade Show,Primary,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","313 Constitution Place
+Austin, TX 78767
+USA",(512) 757-9340,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",(512) 757-6000,Ms.,"SVP, Procurement"
+7ebfd597-4e44-46a1-9580-dadc26254de9,c7391c5f-99a3-48f3-887a-a723f1c8b9e6,Jean Marie,(014) 427-4465,"#N/A",Pending,Finance,"#N/A",pat@pyramid.net,"#N/A",(014) 427-4428,Pat,"#N/A","#N/A","French, English",Stumuller,"#N/A",Primary,Paris,France,"#N/A","#N/A","#N/A",75251,"#N/A",2 Place Jussieu,(014) 454-6364,Paris,France,"#N/A","#N/A","#N/A","#N/A",75251,"#N/A",2 Place Jussieu,(014) 427-4427,Ms.,"SVP, Administration and Finance"
+7f2d0786-b34c-47cc-98f4-312152b17538,dc3b2d3d-e2d3-4268-b2e2-1fc810ea1e98,"#N/A","#N/A",1944-05-03,Pending,Administration,"#N/A",jane_gray@uoa.edu,"#N/A",(520) 773-9060,Jane,"#N/A","#N/A",English,Grey,Word of mouth,Primary,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","888 N Euclid 
+Hallis Center, Room 501
+Tucson, AZ 85721
+United States",(520) 773-4539,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",(520) 773-9050,Ms.,Dean of Administration
+a0738c20-5e85-45fe-9c2f-23e2c844bece,ce3d93a2-baf7-47f5-9825-dbb6f0158669,"#N/A","#N/A",1948-06-16,Pending,Warehouse Mgmt,"#N/A",j.davis@expressl&t.net,"#N/A",(503) 421-7801,Josh,"#N/A","#N/A",English,Davis,Word of mouth,Secondary,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","621 SW 5th Avenue Suite 400
+Portland, Oregon 97204
+United States",(503) 421-4387,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",(503) 421-7800,Mr.,"Director, Warehouse Mgmt"
+ad2e78e6-bb89-4973-9ac0-aba62049651b,919051d5-a09d-4b48-a216-7cd183f29b31,"#N/A","#N/A",1961-12-19,Pending,Production,"#N/A",ldcruz@uog.com,"#N/A",(650) 450-8820,Liz,"#N/A","#N/A",English,D'Cruz,Public Relations,Secondary,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","10 Tagore Lane
+Singapore, Singapore 787472
+Singapore",(650) 345-6637,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",(650) 450-8810,Ms.,"VP, Production"
+b6980079-10dd-4499-8e7f-37de1fccf72b,daba0c4d-b713-457c-8637-8904aa4728e2,"#N/A","#N/A",1942-05-26,Pending,Technology,"#N/A",efrank@genepoint.com,"#N/A",(650) 867-9895,Edna,"#N/A","#N/A",English,Frank,Partner,Primary,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","345 Shoreline Park
+Mountain View, CA 94043
+USA",(650) 867-7686,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",(650) 867-3450,Ms.,"VP, Technology"
+ce150f7b-5a26-4949-b1b7-7f4b2d70654c,38d16764-9f76-4920-8c9f-6ddc817ab71e,Audrey Haynes,(212) 842-5589,1943-07-07,Pending,Production,"#N/A",spavlova@uog.com,"#N/A",(212) 842-5501,Stella,"#N/A","#N/A",English,Pavlova,Public Relations,Tertiary,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","1303 Avenue of the Americas 
+New York, NY 10019
+USA",(212) 842-5501,"#N/A","#N/A","#N/A","#N/A","#N/A",(212) 842-5543,"#N/A","#N/A","#N/A",(212) 842-5500,Ms.,"SVP, Production"
+d10b47d3-3556-47f8-8252-3197cfcf2170,1b9ee754-171f-4296-8ada-2ea29b0d1c3e,"#N/A","#N/A","#N/A",Pending,"#N/A","#N/A",jrogers@burlington.com,"#N/A",(336) 222-8000,Jack,"#N/A","#N/A","#N/A",Rogers,Web,"#N/A",Burlington,USA,"#N/A","#N/A","#N/A",27215,NC,525 S. Lexington Ave,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",(336) 222-7000,Mr.,"VP, Facilities"
+d3d64f1a-1549-4c4a-854b-db15e5c66cd7,08790027-1861-4bc9-8a15-79402eaf1c91,"#N/A","#N/A","#N/A",Pending,Internal Operations,"#N/A",a_young@dickenson.com,"#N/A","#N/A",Andy,"#N/A","#N/A",English,Young,Purchased List,Primary,Lawrence,USA,"#N/A","#N/A","#N/A",66045,KS,1301 Hoch Drive,(785) 265-5350,Lawrence,USA,"#N/A","#N/A","#N/A","#N/A",66045,KS,1301 Hoch Drive,(785) 241-6200,Mr,"SVP, Operations"
+d4b4e27b-1360-4087-a566-a48002a8caf5,38d16764-9f76-4920-8c9f-6ddc817ab71e,Pat Feinstein,(212) 842-5464,1951-11-02,Pending,Executive Team,"#N/A",asong@uog.com,"#N/A",(212) 842-5501,Arthur,"#N/A","#N/A",English,Song,Public Relations,Secondary,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","1301 Avenue of the Americas 
+New York, NY 10019
+USA",(212) 842-4535,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",(212) 842-5500,Mr.,CEO
+dabc25b5-3b18-44a0-a2ea-5bcaba05e336,38d16764-9f76-4920-8c9f-6ddc817ab71e,"#N/A","#N/A",1960-08-19,Pending,Technology,"#N/A",lboyle@uog.com,"#N/A",(212) 842-5501,Lauren,"#N/A","#N/A",English,Boyle,Public Relations,Secondary,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","1304 Avenue of the Americas 
+New York, NY 10019
+USA",(212) 842-5611,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",(212) 842-5500,Ms.,"SVP, Technology"
+ece01c53-1b49-43bf-bc99-ac68329f7e39,3f24dc8d-83d3-45b4-a1a3-8f9e7d546df8,"#N/A","#N/A",1946-07-12,Pending,Finance,"#N/A",ajames@uog.com,"#N/A",+44 191 4956620,Ashley,"#N/A","#N/A",English,James,Public Relations,Primary,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","Kings Park, 17th Avenue, Team Valley Trading Estate,
+Gateshead, Tyne and Wear NE26 3HS
+United Kingdom",+44 191 3456234,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",+44 191 4956203,Ms.,"VP, Finance"
+eee05af0-cb83-4ee7-9d89-5bcbf5e6f9a0,919051d5-a09d-4b48-a216-7cd183f29b31,"#N/A","#N/A",1950-09-08,Pending,Executive Team,"#N/A",tripley@uog.com,"#N/A",(650) 450-8820,Tom,"#N/A","#N/A",English,Ripley,Public Relations,Primary,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","9 Tagore Lane
+Singapore, Singapore 787472
+Singapore",(650) 345-7636,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",(650) 450-8810,Mr.,Regional General Manager
+f2021d40-7e53-461a-9139-d3ba6b6f9640,0efa91bf-962c-4c25-82da-79a1e7f2df8e,"#N/A","#N/A","#N/A",Pending,"#N/A","#N/A","#N/A","#N/A","#N/A",Jake,"#N/A","#N/A","#N/A",Llorrac,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Mr.,"#N/A"
